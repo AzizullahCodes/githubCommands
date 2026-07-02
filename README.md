@@ -43,4 +43,8 @@ if i have cloned a repo of my friend in my laptop and my friend made any changes
 git remote -v 
 if not remotely active than first i connect it remotely 
 git remote add origin(url of my friend repo)
+than check again 
+git remote -v
+than 
+git pull origin or master
 
