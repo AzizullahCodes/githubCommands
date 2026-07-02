@@ -37,3 +37,10 @@ Example: git clone https://github.com/Shahzadaahmed/React-Native-Basics
 
 Note: Agr ap kisi repo m kam kr rahy ho or apki kisi partner ne changes ki hen or apne pull lena hy then:
 git pull origin master/brance-name
+
+
+if i have cloned a repo of my friend in my laptop and my friend made any changes in his repo and i want that i can also take updates than first i check whether repo is remotely connected or not by using this comman 
+git remote -v 
+if not remotely active than first i connect it remotely 
+git remote add origin(url of my friend repo)
+
